@@ -1,0 +1,15 @@
+C:\Users\1\Console_02\Project_HomeWork_02\bin\MCD\Debug\net6.0\Project_HomeWork_02.exe
+C:\Users\1\Console_02\Project_HomeWork_02\bin\MCD\Debug\net6.0\Project_HomeWork_02.deps.json
+C:\Users\1\Console_02\Project_HomeWork_02\bin\MCD\Debug\net6.0\Project_HomeWork_02.runtimeconfig.json
+C:\Users\1\Console_02\Project_HomeWork_02\bin\MCD\Debug\net6.0\Project_HomeWork_02.dll
+C:\Users\1\Console_02\Project_HomeWork_02\bin\MCD\Debug\net6.0\Project_HomeWork_02.pdb
+C:\Users\1\Console_02\Project_HomeWork_02\obj\MCD\Debug\net6.0\Project_HomeWork_02.csproj.AssemblyReference.cache
+C:\Users\1\Console_02\Project_HomeWork_02\obj\MCD\Debug\net6.0\Project_HomeWork_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Console_02\Project_HomeWork_02\obj\MCD\Debug\net6.0\Project_HomeWork_02.AssemblyInfoInputs.cache
+C:\Users\1\Console_02\Project_HomeWork_02\obj\MCD\Debug\net6.0\Project_HomeWork_02.AssemblyInfo.cs
+C:\Users\1\Console_02\Project_HomeWork_02\obj\MCD\Debug\net6.0\Project_HomeWork_02.csproj.CoreCompileInputs.cache
+C:\Users\1\Console_02\Project_HomeWork_02\obj\MCD\Debug\net6.0\Project_HomeWork_02.dll
+C:\Users\1\Console_02\Project_HomeWork_02\obj\MCD\Debug\net6.0\refint\Project_HomeWork_02.dll
+C:\Users\1\Console_02\Project_HomeWork_02\obj\MCD\Debug\net6.0\Project_HomeWork_02.pdb
+C:\Users\1\Console_02\Project_HomeWork_02\obj\MCD\Debug\net6.0\Project_HomeWork_02.genruntimeconfig.cache
+C:\Users\1\Console_02\Project_HomeWork_02\obj\MCD\Debug\net6.0\ref\Project_HomeWork_02.dll
